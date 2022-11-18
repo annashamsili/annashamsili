@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning Python and Javascript, specifically three.js
 
-💞️ I’m looking to collaborate on projects with a sociological angle
+💞️ I’m looking to collaborate on projects with a sociological angle, and/or related to CURSOR (cursormag.net)
 
-📫 Find me on instagram, @yungkubrick
+📫 Find me on instagram, @yungkubrick, or anna@cursormag.net
 
 
 <!---
