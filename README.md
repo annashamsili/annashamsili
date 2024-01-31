@@ -1,8 +1,8 @@
 👋 Hi, I’m Anna, @annashamsili. A social data scientist with a digital humanities background.
 
-👀 Interested in alternative futures and digital socilogy. My topics include sex and gender online, digital activism, and grief and technology.
+👀 Interested in alternative futures and digital sociology.
 
-🌱 I’m currently learning Python and Javascript, specifically three.js
+🌱 I work in Python but am exploring R, and interested in web-based formats. 
 
 💞️ I’m looking to collaborate on projects with a sociological angle, and/or related to CURSOR (cursormag.net)
 
