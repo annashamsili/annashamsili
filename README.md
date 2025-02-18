@@ -1,8 +1,8 @@
-👋 Hi, I’m Anna, @annashamsili. A social data scientist with a digital humanities background.
+👋 Hi, I’m Anna, @annashamsili.
 
-👀 Interested in alternative futures and digital sociology.
+👀 Interested in alternative futures and digital humanities.
 
-🌱 I work in Python but am exploring R, and interested in web-based formats. 
+🌱 More of an ideas person, currently learning all I can about digital archives. 
 
 💞️ I’m looking to collaborate on projects with a sociological angle, and/or related to CURSOR (cursormag.net)
 
