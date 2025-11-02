@@ -2,9 +2,7 @@
 
 👀 Interested in alternative futures and digital humanities.
 
-🌱 More of an ideas person, currently learning all I can about digital archives. 
-
-💞️ I’m looking to collaborate on projects with a sociological angle, and/or related to CURSOR (cursormag.net)
+🌱 Currently learning all I can about digital archives. 
 
 📫 Find me on instagram, @yungkubrick, or anna@cursormag.net
 
